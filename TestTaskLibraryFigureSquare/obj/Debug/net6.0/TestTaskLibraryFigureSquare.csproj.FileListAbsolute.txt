@@ -1,0 +1,12 @@
+C:\Users\Sagiri Izumi\RiderProjects\TestTaskLibraryFigureSquare\TestTaskLibraryFigureSquare\bin\Debug\net6.0\TestTaskLibraryFigureSquare.deps.json
+C:\Users\Sagiri Izumi\RiderProjects\TestTaskLibraryFigureSquare\TestTaskLibraryFigureSquare\bin\Debug\net6.0\TestTaskLibraryFigureSquare.dll
+C:\Users\Sagiri Izumi\RiderProjects\TestTaskLibraryFigureSquare\TestTaskLibraryFigureSquare\bin\Debug\net6.0\TestTaskLibraryFigureSquare.pdb
+C:\Users\Sagiri Izumi\RiderProjects\TestTaskLibraryFigureSquare\TestTaskLibraryFigureSquare\obj\Debug\net6.0\TestTaskLibraryFigureSquare.csproj.AssemblyReference.cache
+C:\Users\Sagiri Izumi\RiderProjects\TestTaskLibraryFigureSquare\TestTaskLibraryFigureSquare\obj\Debug\net6.0\TestTaskLibraryFigureSquare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sagiri Izumi\RiderProjects\TestTaskLibraryFigureSquare\TestTaskLibraryFigureSquare\obj\Debug\net6.0\TestTaskLibraryFigureSquare.AssemblyInfoInputs.cache
+C:\Users\Sagiri Izumi\RiderProjects\TestTaskLibraryFigureSquare\TestTaskLibraryFigureSquare\obj\Debug\net6.0\TestTaskLibraryFigureSquare.AssemblyInfo.cs
+C:\Users\Sagiri Izumi\RiderProjects\TestTaskLibraryFigureSquare\TestTaskLibraryFigureSquare\obj\Debug\net6.0\TestTaskLibraryFigureSquare.csproj.CoreCompileInputs.cache
+C:\Users\Sagiri Izumi\RiderProjects\TestTaskLibraryFigureSquare\TestTaskLibraryFigureSquare\obj\Debug\net6.0\TestTaskLibraryFigureSquare.dll
+C:\Users\Sagiri Izumi\RiderProjects\TestTaskLibraryFigureSquare\TestTaskLibraryFigureSquare\obj\Debug\net6.0\refint\TestTaskLibraryFigureSquare.dll
+C:\Users\Sagiri Izumi\RiderProjects\TestTaskLibraryFigureSquare\TestTaskLibraryFigureSquare\obj\Debug\net6.0\TestTaskLibraryFigureSquare.pdb
+C:\Users\Sagiri Izumi\RiderProjects\TestTaskLibraryFigureSquare\TestTaskLibraryFigureSquare\obj\Debug\net6.0\ref\TestTaskLibraryFigureSquare.dll

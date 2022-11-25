@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTaskLibraryFigureSquare", "TestTaskLibraryFigureSquare\TestTaskLibraryFigureSquare.csproj", "{8D744BAE-CC01-4B33-B5A5-B5F6AAE2D596}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FigureSquareTests", "FigureSquareTests\FigureSquareTests.csproj", "{3E919566-B7BB-468E-9C8D-239DF92D6C39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D744BAE-CC01-4B33-B5A5-B5F6AAE2D596}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D744BAE-CC01-4B33-B5A5-B5F6AAE2D596}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D744BAE-CC01-4B33-B5A5-B5F6AAE2D596}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D744BAE-CC01-4B33-B5A5-B5F6AAE2D596}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E919566-B7BB-468E-9C8D-239DF92D6C39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E919566-B7BB-468E-9C8D-239DF92D6C39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E919566-B7BB-468E-9C8D-239DF92D6C39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E919566-B7BB-468E-9C8D-239DF92D6C39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
