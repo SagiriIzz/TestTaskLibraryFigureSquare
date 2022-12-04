@@ -2,20 +2,22 @@
 
 public class Triangle : Shape
 {
-    protected double firstSide, secondSide, thirdSide;
+    protected double _firstSide;
+    protected double _secondSide; 
+    protected double _thirdSide;
 
     public Triangle(double firstSide, double secondSide, double thirdSide)
     {
-        this.firstSide = firstSide;
-        this.secondSide = secondSide;
-        this.thirdSide = thirdSide;  
+        _firstSide = firstSide;
+        _secondSide = secondSide;
+        _thirdSide = thirdSide;  
     }
 
     public override double GetSquare()
     {
-        var semiPerimeter = (firstSide + secondSide + thirdSide) / 2;
-        return Math.Sqrt(semiPerimeter * (semiPerimeter - firstSide) * (semiPerimeter - secondSide) *
-                         (semiPerimeter - thirdSide));      
+        var semiPerimeter = (_firstSide + _secondSide + _thirdSide) / 2;
+        return Math.Sqrt(semiPerimeter * (semiPerimeter - _firstSide) * (semiPerimeter - _secondSide) *
+                         (semiPerimeter - _thirdSide));      
     }
 }
 

@@ -2,14 +2,14 @@
 
 public class Сircle : Shape
 {
-    protected double radius;
+    private double _radius;
 
     public Сircle(double radius)
     {
-        this.radius = radius;
+        _radius = radius;
     }
     public override double GetSquare()
     {
-        return Math.PI * Math.Pow(radius, 2);
+        return Math.PI * Math.Pow(_radius, 2);
     }
 }
