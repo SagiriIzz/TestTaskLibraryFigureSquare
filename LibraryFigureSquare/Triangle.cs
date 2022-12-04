@@ -1,6 +1,6 @@
 ﻿namespace TestTaskLibraryFigureSquare;
 
-public class Triangle
+public class Triangle : Shape
 {
     protected double firstSide, secondSide, thirdSide;
 
@@ -9,6 +9,13 @@ public class Triangle
         this.firstSide = firstSide;
         this.secondSide = secondSide;
         this.thirdSide = thirdSide;  
+    }
+
+    public override double GetSquare()
+    {
+        var semiPerimeter = (firstSide + secondSide + thirdSide) / 2;
+        return Math.Sqrt(semiPerimeter * (semiPerimeter - firstSide) * (semiPerimeter - secondSide) *
+                         (semiPerimeter - thirdSide));      
     }
 }
 

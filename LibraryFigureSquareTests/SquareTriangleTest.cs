@@ -8,10 +8,10 @@ public class SquareTriangleTest
     [TestMethod]
     public void Side_Triangle_ShouldReturnCorrectResult()
     {
-        var triangle = new SquareTriangle(firstSide:7, secondSide:24, thirdSide:25);
+        var triangle = new Triangle(firstSide:7, secondSide:24, thirdSide:25);
         const int expected = 84;
         
-        var actual = triangle.GetSquareTriangle();
+        var actual = triangle.GetSquare();
         
         Assert.AreEqual(expected, actual);
     }
