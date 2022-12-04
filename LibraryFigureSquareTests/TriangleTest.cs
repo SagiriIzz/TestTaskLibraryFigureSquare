@@ -3,7 +3,7 @@ namespace FigureSquareTests;
 
 
 [TestClass]
-public class SquareTriangleTest
+public class TriangleTest
 {
     [TestMethod]
     public void Side_Triangle_ShouldReturnCorrectResult()

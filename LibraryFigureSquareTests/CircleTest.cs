@@ -2,7 +2,7 @@ using TestTaskLibraryFigureSquare;
 namespace FigureSquareTests;
 
 [TestClass]
-public class SquareCircleTest
+public class CircleTest
 {
     [TestMethod]
     public void Circle_Radius_ShouldReturnCorrectResult()
