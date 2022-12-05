@@ -1,8 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryFigureSquare", "LibraryFigureSquare\LibraryFigureSquare.csproj", "{8D744BAE-CC01-4B33-B5A5-B5F6AAE2D596}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryFigureArea", "LibraryFigureArea\LibraryFigureArea.csproj", "{8D744BAE-CC01-4B33-B5A5-B5F6AAE2D596}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryFigureSquareTests", "LibraryFigureSquareTests\LibraryFigureSquareTests.csproj", "{3E919566-B7BB-468E-9C8D-239DF92D6C39}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryFigureAreaTests", "LibraryFigureAreaTests\LibraryFigureAreaTests.csproj", "{3E919566-B7BB-468E-9C8D-239DF92D6C39}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

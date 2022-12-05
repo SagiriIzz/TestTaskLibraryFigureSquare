@@ -1,0 +1,18 @@
+using TestTaskLibraryFigureSquare;
+namespace FigureSquareTests;
+
+[TestClass]
+public class CircleTest
+{
+    [TestMethod]
+    public void Circle_Radius_ShouldReturnCorrectResult()
+    {
+        var circle = new Сircle(radius: 12);
+        const double expected = 452.3893421169302;
+
+        var actual = circle.GetArea();
+        
+        Assert.AreEqual(expected, actual);
+    }
+}
+
